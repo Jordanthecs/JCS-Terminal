@@ -9,3 +9,4 @@ This project is a terminal emulator in C. This program is used to help me practi
 - Built in commands
 - I/O Redirection
 - Job Control
+https://www.geeksforgeeks.org/making-linux-shell-c/
